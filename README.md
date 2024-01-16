@@ -67,4 +67,3 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 
-##https://tutorial101.blogspot.com/2023/05/laravel-10-crud-create-read-update-and.html
